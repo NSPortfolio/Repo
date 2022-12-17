@@ -1,6 +1,6 @@
 from Tires import Tires
 
-class Carrigan(Tires):
+class Octoprime(Tires):
     def __init__(self, sensor_readings):
         self.sensor_readings = sensor_readings
 
