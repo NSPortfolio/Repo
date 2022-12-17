@@ -4,6 +4,8 @@ from car import Car
 from Engine.CapuletEngine import CapuletEngine
 from Engine.StermanEngine import SternmanEngine
 from Engine.WilloughbyEngine import WilloughbyEngine
+from Tires.Carrigan import Carrigan
+from Tires.Octoprime import Octoprime
 
 class CarFactory:
     @staticmethod
